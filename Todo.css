@@ -130,3 +130,9 @@
     footer .fa-heart{
         color:#bb0820;
     }
+ @media (max-width:600px){
+        #container {
+            margin: 130px auto;
+            margin-bottom:200px;
+          }
+    }
