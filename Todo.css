@@ -27,7 +27,8 @@
       width: 80vw;
       max-width:580px;
       margin: 100px auto;
-      box-shadow: 1px 1px 5px black;   
+      box-shadow: 1px 1px 5px black;  
+      margin-bottom:130px; 
     }
     
     h1 {
